@@ -260,7 +260,6 @@ header h4{
 footer{
   background: #fafafa;
   display: block;
-  height: 50px;
 }
 .footer{
   display: flex;
@@ -275,4 +274,5 @@ margin: 2px 3px;
 .footer a{
   text-decoration: none;
   color: #2f68e2;
+    font-size:12px;
 }
