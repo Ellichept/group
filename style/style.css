@@ -28,7 +28,7 @@ header h4{
 .mySlides {display: none;}
 .mySlides img {
   vertical-align: middle;
-  height: 100vh;
+
   border-radius: 5px 10px;
   padding: 5px;
   
