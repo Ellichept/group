@@ -249,6 +249,10 @@ header h4{
   .testimonial-column{
       flex-basis: 100%;
   }
+      .text {
+    position: relative;
+    bottom: 8px;
+  }
 }
 
 
@@ -260,7 +264,8 @@ footer{
 }
 .footer{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
 
 }
 .footer img{
